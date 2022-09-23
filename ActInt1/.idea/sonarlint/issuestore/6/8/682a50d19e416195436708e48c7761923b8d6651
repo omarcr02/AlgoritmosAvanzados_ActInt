@@ -1,0 +1,27 @@
+
+>cpp:S125B"Remove the commented out code.(·Ñ¸Õşÿÿÿÿ8‘•Çô²0
+7	cpp:S14819"unused variable 'byte'(éªõ¨üÿÿÿÿ8’•Çô²0
+9cpp:S125H"Remove the commented out code.(şØñ8’•Çô²0
+–	cpp:S5276S"uimplicit conversion loses integer precision: 'std::basic_string<char>::size_type' (aka 'unsigned long long') to 'int'(¾šæÏıÿÿÿÿ8“•Çô²0
+>cpp:S125s"Remove the commented out code.(¨üòøÿÿÿÿ8¤¾×ô²0
+–	cpp:S5276z"uimplicit conversion loses integer precision: 'std::basic_string<char>::size_type' (aka 'unsigned long long') to 'int'(¯êŸ„úÿÿÿÿ8¼Üùô²0
+–	cpp:S5276{"uimplicit conversion loses integer precision: 'std::basic_string<char>::size_type' (aka 'unsigned long long') to 'int'(»ı°Šşÿÿÿÿ8Ê¸úô²0
+9cpp:S125¶"Remove the commented out code.(Ìº±r8¥¯èõ²0
+—	cpp:S5276À"uimplicit conversion loses integer precision: 'std::basic_string<char>::size_type' (aka 'unsigned long long') to 'int'(ËûÌ·ùÿÿÿÿ8ŸØŞõ²0
+’	cpp:S5276Á"uimplicit conversion loses integer precision: 'std::basic_string<char>::size_type' (aka 'unsigned long long') to 'int'(Èæî—8ŸØŞõ²0
+Q	cpp:S1659"0Define each identifier in a dedicated statement.(áç¤¹øÿÿÿÿ8Ù°’ô²0
+`	cpp:S12387"?Pass expensive to copy object "filename" by reference to const.(ââ”ùÿÿÿÿ8ĞŒëô²0
+X	cpp:S1238P"<Pass expensive to copy object "archi" by reference to const.(»Ö’Ş8ÓŒëô²0
+Q	cpp:S1659W"0Define each identifier in a dedicated statement.(‰”şÿÿÿÿÿ8µ–Çô²0
+Q	cpp:S1659X"0Define each identifier in a dedicated statement.(ü‘Œùÿÿÿÿ8ÔŒëô²0
+]	cpp:S1238x"<Pass expensive to copy object "archi" by reference to const.(ûşËûÿÿÿÿ8»ôºõ²0
+^	cpp:S5945~"=Use "std::array" or "std::vector" instead of a C-style array.(»º³êşÿÿÿÿ8ı‹ö²0
+Y	cpp:S1238¿"<Pass expensive to copy object "archi" by reference to const.(î®Û‡8ƒ‘‹ö²0
+ncpp:S134Ë"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(à¢±¦ùÿÿÿÿ8ƒ‘‹ö²0
+M	cpp:S1659Ä"0Define each identifier in a dedicated statement.(ãÜòœ8ƒ‘‹ö²0
+D	cpp:S5827Ú"'Replace the redundant type with "auto".(íÏè‚8„‘‹ö²0
+_	cpp:S5945Â"=Use "std::array" or "std::vector" instead of a C-style array.(ƒÄÑıûÿÿÿÿ8…‘‹ö²0
+9	cpp:S1231Ú"Remove this use of "malloc".(íÏè‚8ˆ‘‹ö²0
+C	cpp:S1854"!Value stored to 'j' is never read(ÖÄã¢ÿÿÿÿÿ8¼—²ö²0
+d	cpp:S3519•"BOut of bound memory access (accessed memory precedes memory block)(ÖÄã¢ÿÿÿÿÿ8½—²ö²0
+?cpp:S125â"Remove the commented out code.(´·†Îùÿÿÿÿ8½—²ö²0
